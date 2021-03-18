@@ -77,6 +77,20 @@
 - Heart of BitCoin & Block Chain
 - Heart of Internet
 - Early A lot of cryptographic Digital Currency failed on the internet
-- |SSL/TLS 1996|
-  |-------|
-  | HTTP - 1990|
+- |SSL/TLS 1996|    | PayPal - 1998|
+  |-------|-------|-----------|
+  | HTTP - 1990| Amazon - 1994 |
+  | TCP/IP - 1974 | Cisco - 1984|
+  | Ethernet - 1974 | 3.com - 1979 |
+  
+> ***A lot of bunch of currency failed early. like Digicash, Mondex, HashCode, Bitgold, B-Money etc But later they are used by other are they sustain in market***
+
+> **Cryptography is the reason why the internet work today**
+
+- **SSL & TSL** that is a protocol that mount on the top of the TCP/IP stack to provide encryption using assymmetric case, which is public key infrastructure cryptography. 
+  - It is secure socket layer
+  - It secure the internet
+  
+- **The Riddle Remained**
+  - How to move value/money peer to peer without any trusted central intermediary and that's the core of BlockChain Technology
+  
